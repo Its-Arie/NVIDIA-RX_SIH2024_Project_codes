@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+    <plist version="1.0">
+    <dict>
+        <key>CFBundleDevelopmentRegion</key>
+        <string>en</string>
+        <key>CFBundleExecutable</key>
+        <string>$(EXECUTABLE_NAME)</string>
+        <key>CFBundleIdentifier</key>
+        <string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+        <key>CFBundleInfoDictionaryVersion</key>
+        <string>6.0</string>
+        <key>CFBundleName</key>
+        <string>$(PRODUCT_NAME)</string>
+        <key>CFBundlePackageType</key>
+        <string>BNDL</string>
+        <key>CFBundleShortVersionString</key>
+        <string>1.0</string>
+        <key>CFBundleSignature</key>
+        <string>????</string>
+        <key>CFBundleVersion</key>
+        <string>1</string>
+        <key>UIAppFonts</key>
+        <array>
+          <string>MaterialIcons.ttf</string>
+          <string>MaterialCommunityIcons.ttf</string>
+          		<string>Prompt-Regular.ttf</string>
+		<string>Prompt-SemiBold.ttf</string>
+		<string>Prompt-Bold.ttf</string>
+		<string>DMSans-Regular.ttf</string>
+		<string>DMSans-Bold.ttf</string>
+		<string>PTSans-Caption.ttf</string>
+		<string>Manrope-Regular.ttf</string>
+		<string>Rancho-Regular.ttf</string>
+		<string>Inter-Regular.ttf</string>
+		<string>ProstoOne-Regular.ttf</string>
+		<string>WorkSans-Bold.ttf</string>
+		<string>PTMono-Regular.ttf</string>
+		<string>Alatsi-Regular.ttf</string>
+		<string>Poppins-Regular.ttf</string>
+		<string>Poppins-Medium.ttf</string>
+		<string>Poppins-Bold.ttf</string>
+		<string>Prociono-Regular.ttf</string>
+		<string>PressStart2P-Regular.ttf</string>
+		<string>Epilogue-Regular.ttf</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </array>
+    </dict>
+    </plist>
